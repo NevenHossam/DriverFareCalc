@@ -1,6 +1,5 @@
 ﻿using DriverFareCalcAPI.DTO;
 using DriverFareCalcAPI.IServices;
-using DriverFareCalcAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DriverFareCalcAPI.Controllers
